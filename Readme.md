@@ -30,9 +30,7 @@ This is by far the best course series on deep learning that I've taken. Enjoy!
 
 ## Specialization Certificate
 
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
-
-![](Certificate.png)
+At last I've successfully completed the specialization and earned my [certificate]
 
 
 
